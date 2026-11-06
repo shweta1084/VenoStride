@@ -1,0 +1,7 @@
+#ifndef VS_VERSION_H
+#define VS_VERSION_H
+
+#define VS_FIRMWARE_VERSION "@VS_FIRMWARE_VERSION@"
+#define VS_BUILD_HASH       "@VS_BUILD_HASH@"
+
+#endif

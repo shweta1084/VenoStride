@@ -1,0 +1,14 @@
+build/
+out/
+.vs/
+*.obj
+*.exe
+*.pdb
+*.ilk
+
+# Local simulator configs; the example stays tracked.
+*.cfg
+!firmware/platform/host/venostride_sim.example.cfg
+Firmware + Software Brief.docx
+VenoStride_Understanding.pdf
+*.env
